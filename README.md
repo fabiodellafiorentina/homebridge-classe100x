@@ -1,0 +1,1 @@
+# homebridge-classe100x
