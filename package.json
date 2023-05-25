@@ -1,0 +1,20 @@
+{
+  "name": "homebridge-classe100x",
+  "version": "0.0.1",
+  "description": "SSH plugin for homebridge: https://github.com/nfarina/homebridge",
+  "license": "MIT",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "author": {
+    "name": "Fabio Della Fiorentina"
+  },
+  "dependencies": {
+    "object-assign": "^4.0.1",
+    "ssh-exec": "^1.3.0"
+  }
+}
